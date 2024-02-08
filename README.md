@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanket Dalvi</h1>
+<h1 align="center">Hello fellow techies! 👋, I'm Sanket Dalvi</h1>
 <h3 align="center">A passionate Software Engineer and Seasoned IT professional with 4.5+ years of web and backend development expertise, currently pursuing a Master's at SUNY Binghamton. Adept in Java and Python, I excel in delivering high-quality projects on time and within budget. Recognized for leadership skills and fostering collaborative teamwork in fast-paced environments.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket-dalvi&label=Profile%20views&color=0e75b6&style=flat" alt="sanket-dalvi" /> </p>
